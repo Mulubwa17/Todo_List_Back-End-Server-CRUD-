@@ -1,4 +1,4 @@
-# Bongohive-todolistbackend-
+# Todolistbackend-
 todo list backend files created by Mulubwa Chungu(email:mulubwac@gmail.com)
 
 SETTING UP THE ENVIRONMENT IN TESTING MODE
