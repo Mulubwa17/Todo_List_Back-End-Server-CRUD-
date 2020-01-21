@@ -69,7 +69,7 @@ exports.deleteTodo = async (req, res, next) => {
        
           data: null,
        
-          message: 'User has been deleted'
+          message: 'Todo has been deleted'
        
          });
        

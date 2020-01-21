@@ -61,19 +61,11 @@ describe(" TODO API TESTS", done => {
 })
 
 it("DELETE /api/v1/:userId should delete a todo in the collection", async () => {
-  const todo = {
-    userId: "5e217c6db189fe53c42e8b82",
-      description:"Go to Shoprite and Spar",
-
-      responsible: "Mulubwa & Aubrey",
-
-      priority:"High",
-      
-      completed:"false"
+  const query = {
+    userId: "5e217c6db189fe53c42e8b82"
   };
-
   const response = await request(server)
     .delete("/api/v1/:userId")
-    .send(todo);
+    .send(query);
   chai.expect(response.status).to.equal(200);
-}); //ends todo delete
+});//ends todo delete
