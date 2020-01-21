@@ -3,11 +3,15 @@ todo list backend files created by Mulubwa Chungu(email:mulubwac@gmail.com)
 
 SETTING UP THE ENVIRONMENT IN TESTING MODE
 
-Before starting up, you will need to setup the environment for compatibility. Below are the necesary tools and packages that are needed for the server to run. HARDWARE REQUIREMENTS
+Before starting up, you will need to setup the environment for compatibility. Below are the necesary tools and packages that are needed for the server to run. 
+
+HARDWARE REQUIREMENTS
 
 RAM 4GB and above recommended
 Hard drive (HDD) storage 5GB and above recommended
 CPU speed 1.10GHz and above recommended
+
+
 SOFTWARE REQUIREMENTS
 
 Node JS version 10.15.1 and above recommended
